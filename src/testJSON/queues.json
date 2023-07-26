@@ -1,0 +1,17 @@
+[
+    {
+        "ID": 1,
+        "name": "default",
+        "user_created": 0
+    },
+    {
+        "ID": 2,
+        "name": "other",
+        "user_created": 1
+    },
+    {
+        "ID": 3,
+        "name": "queue2",
+        "user_created": 2
+    }
+]
